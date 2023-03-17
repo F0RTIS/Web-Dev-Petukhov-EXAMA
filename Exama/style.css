@@ -1,0 +1,41 @@
+header, footer {
+    background-color: rgb(255, 255, 255);
+}
+
+.logo {
+    width: 150px;
+}
+
+.nav-link, footer {
+    color: black;
+}
+
+.name-company p {
+    color: black;
+}
+
+main {
+    background-color: rgb(255, 255, 255);
+}
+
+.routes-list, .guides-list, .dignity {
+    border: #ea8004 4px solid;
+}
+
+.custom-tooltip {
+    --bs-tooltip-bg: var(--bs-secondary);
+}
+
+.dropdown {
+    height: 100px;
+}
+
+.modal-content {
+    background-color:rgb(255, 255, 255);
+}
+
+.alerts {
+    position: sticky;
+    top: 0;
+    text-align: center;
+}
